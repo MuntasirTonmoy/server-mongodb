@@ -1,0 +1,14 @@
+//* setting up run function and calling run function
+
+/* const run = async () => {};
+
+run().catch(console.dir);
+ */
+
+//* connect client
+
+//* set database and collection
+
+//* insert data in result
+
+//* console.log result.insertId
